@@ -5,6 +5,7 @@ IDE Utilizada: Eclipse 2022-03.
 Linguagens utilizadas: Java, JavaScript, HTML5 e CSS.
 Banco de Dados utilizado: MySQL 8.0.
 Ferramentas utilizadas: BootStrap 5.1.3.
+O padrão MVC foi empregado neste projeto.
 
 Este projeto permite realizar duas operações principais:
 - A primeira operação está disponível após clicar no botão "Relatório" da página inicial. Nesta área é possível calcular a energia esperada de produção em kWh. 
